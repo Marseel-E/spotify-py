@@ -1,2 +1,2 @@
 # spotify-py
-A Python async wrapper for the Spotify API
+async Python wrapper for the Spotify API
